@@ -21,7 +21,9 @@ I’ve worked across fintech, healthcare, and civic engagement projects, from mi
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="kubernetes" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="django" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="aws" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/digitalocean/digitalocean-original.svg" alt="digitalocean" width="50" height="50"/>
+</p>
 
 ---
 
@@ -30,5 +32,6 @@ I’ve worked across fintech, healthcare, and civic engagement projects, from mi
   <a href="https://www.linkedin.com/in/samantha-jiao-87b795277/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="linkedin" width="40" height="40"/>
   </a>
-  <p>Email: samanthaj9@ucla.edu</p>
 </p>
+
+Email: **samanthaj9@ucla.edu**
