@@ -34,4 +34,4 @@ I’ve worked across fintech, healthcare, and civic engagement projects, from mi
   </a>
 </p>
 
-Email: **samanthaj9@ucla.edu**
+Email: **samanthajiao9@ucla.edu**
