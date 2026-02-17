@@ -27,6 +27,14 @@ I’ve worked across fintech, healthcare, and civic engagement projects, from mi
 
 ---
 
+## GitHub Stats
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=samanthaj9&show_icons=true&theme=default" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samanthaj9&layout=compact" height="180"/>
+</p>
+
+---
+
 ## Connect
 <p align="left">
   <a href="https://www.linkedin.com/in/samantha-jiao-87b795277/" target="_blank">
